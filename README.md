@@ -1,8 +1,10 @@
-# Hajj
 
 
 
-# <img src='logo.png' width=70> Secure Click
+
+<p align="center">
+   <img src='logo.png' width=250>
+</p>
 
 ### Team members (We worked together <img src='image/Togatherr.jpeg' width=40>)
    - Razan Alyahya
