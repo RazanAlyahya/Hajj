@@ -2,7 +2,7 @@
 
 
 
-# <img src='image/logo.png' width=70> Secure Click
+# <img src='logo.png' width=70> Secure Click
 
 ### Team members (We worked together <img src='image/Togatherr.jpeg' width=40>)
    - Razan Alyahya
