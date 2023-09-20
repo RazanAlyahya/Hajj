@@ -35,7 +35,7 @@ The HAJJ dataset is a collection of nine videos from the annual Hajj religious e
 
 ## Used Technologies 
 <p align="center">  
-<img src='image/Technologies.png' width=600>
+<img src='image/Technologies.png' width=700>
  </p>
 
 
