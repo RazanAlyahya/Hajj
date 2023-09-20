@@ -28,7 +28,7 @@ The HAJJ dataset is a collection of nine videos from the annual Hajj religious e
 <img src='image/DataSet.png' width=500>
  </p>
 
-- YOLOv5 with ResNet50 Backbone for Abnormal Object Detection.
+- YOLOv5 with Mobilenetv2 Backbone for Abnormal Object Detection.
 - Optical Flow Feature Extraction using Horn–Schunck.
 - Random Forest (RF) Classification for Object Categorization.
 - Kalman Filter for Object Tracking.
