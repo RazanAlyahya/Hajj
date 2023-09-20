@@ -17,11 +17,16 @@ The Hajj, a large-scale religious pilgrimage in Makkah, Saudi Arabia, attracts o
 ## Dataset Overview:
 The HAJJ dataset is a collection of nine videos from the annual Hajj religious event, capturing individuals' abnormal behaviors in massive crowds. The videos, captured in various scenes (“Massaa”,“Jamarat”, “Arafat”, and “Tawaf”), are cropped and split into training and testing sets. The videos show various abnormal behaviors, including standing, sitting, sleeping, running, and non-pedestrian activities, which can pose a risk to large-scale crowd flows.
 
+<p align="center">
+   <img src='image/DataSet2.png' width=500>
+</p>
+
 ## Model Building:
 - Extracting the frames from the videos and save them.
 - Convert the annotation to YOLOv5 format.
-   
-<img src='image/DataSet.png' width=250>
+ <p align="center">  
+<img src='image/DataSet.png' width=500>
+ </p>
 
 - YOLOv5 with ResNet50 Backbone for Abnormal Object Detection.
 - Optical Flow Feature Extraction using Horn–Schunck.
@@ -29,8 +34,9 @@ The HAJJ dataset is a collection of nine videos from the annual Hajj religious e
 - Kalman Filter for Object Tracking.
 
 ## Used Technologies 
+<p align="center">  
 <img src='image/Technologies.png' width=250>
-
+ </p>
 
 
 
