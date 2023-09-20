@@ -7,7 +7,7 @@
 </p>
 
 ## Team members:
-   - <a href="https://github.com/RazanAlyahya">Razan Alyahya</a>
+- [Razan Alyahya](https://github.com/RazanAlyahya)
    - <a href="https://github.com/Aziz-Zahrani">Abdulaziz Alzahrani</a>
    - <a href="https://github.com/oddissblue">Osama Alyami</a>
    
