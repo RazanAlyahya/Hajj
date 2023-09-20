@@ -7,9 +7,9 @@
 </p>
 
 ## Team members:
-- [Razan Alyahya](https://github.com/RazanAlyahya)
-   - <a href="https://github.com/Aziz-Zahrani">Abdulaziz Alzahrani</a>
-   - <a href="https://github.com/oddissblue">Osama Alyami</a>
+   - [Razan Alyahya](https://github.com/RazanAlyahya)
+   - [Abdulaziz Alzahrani](https://github.com/Aziz-Zahrani)
+   - [Osama Alyami](https://github.com/oddissblue)
    
 ## Problem:
 The Hajj, a large-scale religious pilgrimage in Makkah, Saudi Arabia, attracts over two million pilgrims from various countries. The project aims to help automate the detection, tracking, and recognition of abnormal behaviors in large-scale crowds using surveillance cameras to ensure pilgrims’ safety in a smooth flow during Hajj. It also helps security authorities and decision-makers visualize and anticipate potential risks.
