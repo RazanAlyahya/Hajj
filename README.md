@@ -19,8 +19,10 @@ The HAJJ dataset is a collection of nine videos from the annual Hajj religious e
 
 ## Model Building:
 - Extracting the frames from the videos and save them.
-- Convert the annotation to YOLOv5 format. 
+- Convert the annotation to YOLOv5 format.
+   
 <img src='image/DataSet.png' width=250>
+
 - YOLOv5 with ResNet50 Backbone for Abnormal Object Detection.
 - Optical Flow Feature Extraction using Horn–Schunck.
 - Random Forest (RF) Classification for Object Categorization.
