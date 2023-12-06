@@ -39,5 +39,7 @@ The HAJJ dataset is a collection of nine videos from the annual Hajj religious e
 <img src='image/Technologies.png' width=900>
  </p>
 
+## References
+T. Alafif et al., “Hybrid classifiers for Spatio-Temporal Abnormal Behavior detection, Tracking, and recognition in massive Hajj crowds,” Electronics, vol. 12, no. 5, p. 1165, Feb. 2023, doi: 10.3390/electronics12051165.
 
 
